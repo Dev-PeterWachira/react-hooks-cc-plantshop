@@ -41,6 +41,12 @@
       "name": "Fiddle Leaf Fig",
       "image": "./images/fiddle-leaf-fig.jpg",
       "price": 55
+    },
+    {
+      "name": "Kiwi fruit",
+      "image": "https",
+      "price": 60.56,
+      "id": 8
     }
   ]
 }
