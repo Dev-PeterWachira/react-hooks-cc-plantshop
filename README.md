@@ -1,3 +1,6 @@
+## Live Link
+https://react-hooks-cc-plantshop-2rqb.vercel.app/
+
 # Phase 2 Code Challenge: Plantsy
 
 ## Demo
